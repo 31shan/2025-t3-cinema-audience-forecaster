@@ -1,4 +1,4 @@
-# Cinema Audience Forecaster (Term 2 – 2025)
+# Cinema Audience Forecaster (Term 3 – 2025)
 
 Forecast daily cinema audience counts for a future period using historical theater attendance and metadata.
 
